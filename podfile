@@ -1,0 +1,10 @@
+platform :ios, "8.0"
+
+use_frameworks!
+target 'RxSwiftTest' do
+
+pod 'RxSwift'
+pod 'RxCocoa', '~> 4.0.0-alpha.1'
+pod 'RxDataSources'
+
+end
